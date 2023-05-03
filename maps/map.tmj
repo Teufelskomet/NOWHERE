@@ -625,7 +625,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/Willkommen.mp3"
+                         "value":"Sounds\/Willkommen.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -757,7 +757,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/\/WorldCafe.mp3"
+                         "value":"Sounds\/WorldCafe.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -889,7 +889,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/\/Willkommen.mp3"
+                         "value":"Sounds\/\/Willkommen.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1021,7 +1021,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/\/Tools.mp3"
+                         "value":"Sounds\/\/Tools.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1153,7 +1153,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/Willkommen.mp3"
+                         "value":"Sounds\/Willkommen.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4234,7 +4234,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/Onboarding.mp3"
+                         "value":"Sounds\/Onboarding.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4361,7 +4361,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/Onboarding_WC.mp3"
+                         "value":"Sounds\/Onboarding_WC.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4488,7 +4488,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"maps\/Sounds\/Preboarding.mp3"
+                         "value":"Sounds\/Preboarding.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
